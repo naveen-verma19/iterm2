@@ -23,13 +23,13 @@
 - Import Default Profile `Default.json` in iterm2 settings  
 
 - Final Settings
-  - go to `iterm->Preferences->Appearances->Panes`
+  - go to `iterm ➔ Preferences ➔ Appearances ➔ Panes`
   - Set `Side Margins to 1`
   - Set `Top & Bottom Margins to 28` (Adjust accordingly)
 - Set Font size based on what you prefer
-  - `iterm->Preferences->Profiles->text->Font`
+  - `iterm ➔ Preferences ➔ Profiles ➔ text ➔ Font`
 
-- In VS Code Cmd+shift+P -> `settings.json` set `"terminal.integrated.fontFamily": "MesloLGS NF"`
+- In VS Code Cmd + Shift + P  ➔  User settings  ➔  `settings.json`. Set `"terminal.integrated.fontFamily": "MesloLGS NF"`
 - Done Enjoy!
 
 
