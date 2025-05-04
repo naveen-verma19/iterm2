@@ -28,6 +28,8 @@
   - Set `Top & Bottom Margins to 28` (Adjust accordingly)
 - Set Font size based on what you prefer
   - `iterm->Preferences->Profiles->text->Font`
+
+- In VS Code Cmd+shift+P -> `settings.json` set `"terminal.integrated.fontFamily": "MesloLGS NF"`
 - Done Enjoy!
 
 
