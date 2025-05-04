@@ -5,8 +5,8 @@
 
 
 ## Setup
-- Download and install iterm2 from official website
-- Follow steps [here](https://www.josean.com/posts/terminal-setup) to install only ohmyzsh, p10k, zsh-autosuggestions, zsh-syntax-highlighting and Meslo Font (optional) 
+- Download and install iterm2 from official [website](https://iterm2.com/downloads.html)
+- Follow steps [here](https://www.josean.com/posts/terminal-setup). Install **only** ohmyzsh, powerlevel10k, zsh-autosuggestions, zsh-syntax-highlighting and Meslo Font(optional) 
 - `cd` into this directory and  run `./setup.sh`. It:
   - Verifies your installations
   - Copies over Font files (if needed)
