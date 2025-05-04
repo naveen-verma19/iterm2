@@ -28,6 +28,9 @@
   - Set `Top & Bottom Margins to 28` (Adjust accordingly)
 - Set Font size based on what you prefer
   - `iterm ➔ Preferences ➔ Profiles ➔ text ➔ Font`
+- If you don't like the icy icon in prompt you can change it.
+  - Get new symbol from here: https://www.nerdfonts.com/cheat-sheet  ➔ search for `e0` to see all powerline icons ➔ copy UTF code of your icon
+  - In the `~/.p10k.zsh` file, replace `POWERLEVEL9K_LEFT_PROMPT_LAST_SEGMENT_END_SYMBOL='\<Your new UTF code>'`
 
 - In VS Code `⌘ + Shift + P`  ➔  User settings  ➔  `settings.json`. Set `"terminal.integrated.fontFamily": "MesloLGS NF"`
 - Done. Enjoy!
